@@ -11,3 +11,10 @@ https://www.kaggle.com/squintrook/forecasting-bankrupts-with-ann
 
 # 2) Goal and Obejective
 
+To construct a model with the fewest input factors but higher accuracy. 
+
+# 3) Structures 
+
+The major part of project 1 focuses on intensive analysis of each given factor. Also, the data itself is highly susceptible to outliers, which makes me spend a great deal of time filtering out those extreme values.  
+
+Part 2 specializes in constructing a model with chosen factors from part 1 for classification.  With the 8 chosen factors, I have achieved an accuracy of 98%. 
