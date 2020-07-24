@@ -17,4 +17,6 @@ To construct a model with the fewest input factors but higher accuracy.
 
 The major part of project 1 focuses on intensive analysis of each given factor. Also, the data itself is highly susceptible to outliers, which makes me spend a great deal of time filtering out those extreme values.  
 
-Part 2 specializes in constructing a model with chosen factors from part 1 for classification.  With the 8 chosen factors, I have achieved an accuracy of 98%. 
+Part 2 specializes in constructing a model with chosen factors from part 1 for classification.  With the 8 chosen factors, I have achieved an accuracy of 99%. 
+
+![image](https://user-images.githubusercontent.com/53164959/88418989-5b57a500-ce1f-11ea-9d1b-2e68fe95210d.png)
